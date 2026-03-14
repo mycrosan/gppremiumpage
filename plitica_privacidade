@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Política de Privacidade - GP Control</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+        background: #f6f8fb;
+        color: #1f2937;
+        line-height: 1.65;
+      }
+      .container {
+        max-width: 860px;
+        margin: 32px auto;
+        background: #ffffff;
+        border: 1px solid #e5e7eb;
+        border-radius: 14px;
+        padding: 28px;
+      }
+      h1 {
+        margin: 0 0 4px 0;
+        font-size: 28px;
+        color: #111827;
+      }
+      .updated {
+        margin: 0 0 24px 0;
+        color: #6b7280;
+        font-size: 14px;
+      }
+      h2 {
+        margin-top: 24px;
+        margin-bottom: 8px;
+        font-size: 18px;
+        color: #111827;
+      }
+      p,
+      li {
+        font-size: 15px;
+      }
+      ul {
+        margin: 0 0 4px 18px;
+        padding: 0;
+      }
+      .contact {
+        margin-top: 20px;
+        padding: 14px;
+        border-radius: 10px;
+        background: #f3f4f6;
+      }
+      .footer {
+        margin-top: 26px;
+        color: #6b7280;
+        font-size: 13px;
+      }
+      a {
+        color: #1d4ed8;
+        text-decoration: none;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="container">
+      <h1>Política de Privacidade – GP Control</h1>
+      <p class="updated">Última atualização: 14/03/2026</p>
+
+      <p>
+        Esta Política de Privacidade descreve como o aplicativo GP Control coleta, utiliza e protege as informações dos usuários.
+        Ao utilizar o aplicativo, você concorda com os termos abaixo.
+      </p>
+
+      <h2>Informações Coletadas</h2>
+      <ul>
+        <li>Identificação de acesso: usuário e token de autenticação.</li>
+        <li>Dados operacionais: etiquetas escaneadas, itens de compra, valores e registros de auditoria.</li>
+        <li>Imagens: fotos capturadas durante o processo de compra e coleta.</li>
+        <li>Localização, quando consentida, para fins de auditoria e rastreabilidade.</li>
+        <li>Logs técnicos para suporte e melhoria contínua do serviço.</li>
+      </ul>
+
+      <h2>Uso das Informações</h2>
+      <ul>
+        <li>Operação do sistema de compras e coleta.</li>
+        <li>Rastreabilidade e auditoria dos eventos.</li>
+        <li>Segurança, prevenção de fraude e conformidade.</li>
+        <li>Suporte e evolução do aplicativo.</li>
+      </ul>
+
+      <h2>Permissões do Dispositivo</h2>
+      <ul>
+        <li>Câmera: necessária para escanear etiquetas e capturar fotos de itens e evidências operacionais.</li>
+        <li>Localização: utilizada quando habilitada pelo usuário para auditoria e histórico operacional.</li>
+        <li>Armazenamento: utilizado para manipulação de arquivos e imagens geradas pelo app.</li>
+      </ul>
+
+      <h2>Compartilhamento</h2>
+      <p>
+        Não vendemos dados pessoais. As informações podem ser compartilhadas apenas com serviços necessários para operação do sistema,
+        sob proteção contratual e controles de segurança.
+      </p>
+
+      <h2>Retenção</h2>
+      <p>
+        Os dados são mantidos pelo período necessário para cumprir obrigações legais, regulatórias e operacionais do negócio.
+      </p>
+
+      <h2>Segurança</h2>
+      <ul>
+        <li>Tokens e credenciais são armazenados com mecanismos seguros do dispositivo.</li>
+        <li>A comunicação com o servidor utiliza protocolos seguros (HTTPS), quando disponível.</li>
+        <li>Controles de acesso e auditoria limitam o acesso às informações.</li>
+      </ul>
+
+      <h2>Direitos do Titular</h2>
+      <p>
+        Você pode solicitar acesso, correção ou exclusão de dados, observadas as obrigações legais e operacionais aplicáveis.
+      </p>
+
+      <h2>Contato</h2>
+      <div class="contact">
+        <p><strong>Suporte/Encarregado:</strong> <a href="mailto:suporte@gpcontrol.com">suporte@gpcontrol.com</a></p>
+        <p>Informe seu usuário e o contexto do pedido para agilizar o atendimento.</p>
+      </div>
+
+      <h2>Atualizações</h2>
+      <p>
+        Esta política pode ser atualizada periodicamente para refletir melhorias no serviço ou exigências regulatórias.
+      </p>
+
+      <p class="footer">GP Control</p>
+    </main>
+  </body>
+</html>
